@@ -7,6 +7,7 @@ public class App {
 
 		System.out.println("Hello Git!!");
 		System.out.println("After Checking Out Checkin Back");
+		System.out.println("After Checking Out Checkin Back");
 	}
 
 }
